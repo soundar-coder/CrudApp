@@ -9,5 +9,7 @@ public class CrudApplication {
     public static void main(String[] args) {
         SpringApplication.run(CrudApplication.class, args);
     }
-
+    public void learning(){
+        System.out.println("Srinath is learning");
+    }
 }
