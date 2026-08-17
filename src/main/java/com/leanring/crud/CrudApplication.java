@@ -10,6 +10,6 @@ public class CrudApplication {
         SpringApplication.run(CrudApplication.class, args);
     }
     public void learning(){
-        System.out.println("Srinathhhhh is learning");
+        System.out.println("Srinathhdvvhhh is learning");
     }
 }
