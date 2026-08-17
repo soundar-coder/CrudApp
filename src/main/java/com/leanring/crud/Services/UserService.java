@@ -45,7 +45,7 @@ public class UserService {
     }
 
     public UserEntity getMail(String mail){
-        System.out.println(("soundar rajan"));
+        System.out.println(("soundar branch"));
         return  ur.findByMail(mail);
 
     }
